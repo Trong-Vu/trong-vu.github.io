@@ -7,9 +7,9 @@ url: 'https://github.com/Trong-Vu/trong-vu.github.io'
 baseurl: https://github.com/Trong-Vu/trong-vu.github.io
 
 # Title of the Site
-title: What A Theme
+title: Trong-Vu Tran
 # Description of the Site
-description: A customizable Jekyll portfolio theme
+description: Trong-Vu Tran's personal page
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -22,17 +22,17 @@ heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: thedevslot@gmail.com
-facebook_username: thedevslot
-twitter_username: thedevslot
-instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  thedevslot
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
+email: trongvu.tr@gmail.com
+facebook_username: trongvu.tran
+twitter_username: TrongVuTran
+instagram_username: trongvutran
+linkedin_username: trongvutran
+github_username:  Trong-Vu
+youtube_channel_id: /
 reddit_username: /
 behance_username: /
 dribbble_username: /
-spotify_username: /
+spotify_username: 1110464322
 
 # Google Analytics
 google-analytics: UA-163806439-1
