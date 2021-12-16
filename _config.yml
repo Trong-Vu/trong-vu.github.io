@@ -2,14 +2,14 @@
 markdown: kramdown
 
 # URL of the Site
-url: 'https://github.com/Trong-Vu/trong-vu.github.io'
+url: 'https://trong-vu.github.io'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: https://github.com/Trong-Vu/trong-vu.github.io
+baseurl: 
 
 # Title of the Site
 title: Trong-Vu Tran
 # Description of the Site
-description: Trong-Vu Tran's personal page
+description: System engineer - developer - and way more
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -32,7 +32,7 @@ youtube_channel_id:
 reddit_username:
 behance_username:
 dribbble_username:
-spotify_username:
+spotify_username: 1110464322
 
 # Google Analytics
 google-analytics: UA-163806439-1
