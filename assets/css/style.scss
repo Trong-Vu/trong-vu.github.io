@@ -197,7 +197,6 @@ a.navbar-item.is-active {
     }
 }
 
-
 #footer {
     #backtotop {
         transition: all 0.25s ease;
@@ -289,6 +288,38 @@ a.navbar-item.is-active {
     }
 }
 
+#testimonial {
+    .columns {
+        .column {
+            border-radius: 0.5rem;
+            .image {
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+        }
+    }
+
+    #testimonial-card {
+        -webkit-box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.1);
+        -moz-box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.1);
+        box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.1);
+        transform: scale(0.95);
+        transition: all 0.5s ease;
+        margin-bottom: 0.5rem !important;
+        display: inline-table;
+        &:hover {
+            transform: scale(0.975);
+        }
+    }
+    .card {
+        transition: all 0.25s ease;
+        &:hover {
+            background-color: rgba($color: #000000, $alpha: 0.90)!important;
+        }
+    }
+}
+
 #post {
     @media (min-width: 768px) {
         margin: auto 2.5vmax;
@@ -353,3 +384,4 @@ a.navbar-item.is-active {
         }
     }
 }
+
