@@ -1,8 +1,10 @@
 ---
-title: Even more about me
+title: More about me
 layout: page
 ---
 
+
+<!--
 # This is heading 1
 ## This is heading 2
 ### This is heading 3
@@ -27,3 +29,4 @@ layout: page
 2. Item 2
 3. Item 3
 4. Item 4
+-->
